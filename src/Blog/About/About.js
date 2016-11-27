@@ -18,7 +18,7 @@ class About extends React.Component {
     }
     return(
       <div className="about-container">
-        <h3>jiangrong</h3>
+        <h3></h3>
 
 
       </div>
